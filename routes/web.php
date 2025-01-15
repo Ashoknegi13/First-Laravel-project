@@ -23,22 +23,7 @@ Route::get('/test',function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 
